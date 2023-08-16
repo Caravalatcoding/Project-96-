@@ -1,0 +1,91 @@
+html, body
+{
+    height: 100%;
+    margin: 0;
+}
+
+body
+{
+    background:linear-gradient(to right, purple 2%, violet 100%);
+    color: white;
+    font-family: "Montserrat";
+}
+
+#Lets-chat-app-icon
+{
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    border-color: black;
+    border-width:2ch;
+    margin-left: 25px;
+}
+
+#sign-in-banner
+{
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+
+#sign-in-label
+{
+    font-weight: bold;
+    font-size: 35pt;
+}
+
+#miraculous-text
+{
+   margin-left: -50px;
+}
+
+p
+{
+    font-size: 15pt;
+}
+
+#catv
+{
+    background:linear-gradient(to right, grey 2%, white 100%);
+    text-align: center;
+    border-radius: 20px;
+    border-color: black;
+    border-style: ridge;
+    margin-top: -150px;
+}
+
+#sign_up
+{
+    color: black;
+}
+
+#name_writing_instruction
+{
+    margin-left: -40%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: azure;
+    font-weight: lighter;
+}
+#login_button
+{
+	width: 20%;
+    border-radius: 15px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+#user_name
+{
+    width: 80%;
+    margin-left: 150px;
+    border-color: black;
+    font-family: Montserrat;
+}
+
+#subscripted-icon-description
+{
+    border-radius: 90px;
+    height: 10%;
+    width: 20%;
+}
